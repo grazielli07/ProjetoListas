@@ -1,0 +1,22 @@
+#ordenada{
+
+    color:brown;
+    background:antiquewhite;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    
+    }
+    
+    #n-ordenada{
+    
+    color:rgb(122, 109, 223);
+    font-style:unset;
+    list-style: georgian;
+    
+    }
+    
+    #n-ordenada li::marker{
+    
+    color:rgb(24, 24, 90);
+    font-size: 35px;
+    
+    }
